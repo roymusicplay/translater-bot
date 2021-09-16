@@ -56,7 +56,7 @@
 * `/unset` unset custom language
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lntechnical2/Google_Translater_V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roymusicplay/translater-bot)
 
 ## License
 ````
@@ -69,7 +69,7 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/ABOUT_ABHINAS">
    <p> Telegram </p>
   </a>
 <a href="https://youtube.com/c/LNtechnical">
